@@ -182,6 +182,5 @@ ORDER BY total_revenue DESC;
 
 
 
-![image](https://github.com/vchukwuma/Victor-s_portfolio/blob/main/Dashboard%201.png?raw=true)
 
 
