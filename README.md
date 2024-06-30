@@ -180,45 +180,7 @@ ORDER BY total_revenue DESC;
 ```
 
 
-## Based on the SQL analysis, the following charts were created in Tableau to visualize the data effectively:
 
-## 1. KPI
-![image](https://github.com/vchukwuma/Victor-s_portfolio/assets/89330614/e1d3e693-b1a8-4bfd-a78e-646614c559c2)
-
-
-
-
-
-## 2. Product with the largest sales
-![image](https://github.com/vchukwuma/Victor-s_portfolio/blob/main/Product%20with%20largest%20sales.png?raw=true)
-
-
-
-
-
-## 3. Customer type bringing the most sales
-![image](https://github.com/vchukwuma/Victor-s_portfolio/blob/main/Customer%20type%20bringing%20the%20most%20sales.png?raw=true)
-
-
-
-
-
-
-## 4. Sales by time of day & month
-![image](https://github.com/vchukwuma/Victor-s_portfolio/blob/main/Sales%20by%20time%20of%20day%20&%20month.png?raw=true)
-
-
-
-
-
-
-## 5. Gender with the largest sales
-![image](https://github.com/vchukwuma/Victor-s_portfolio/blob/main/Gender%20with%20the%20largest%20sales.png?raw=true)
-
-
-
-# Final Dashboard
-## The final dashboard integrates the above charts to provide a cohesive and insightful view of Walmart's sales data. It includes interactive filters to allow users to explore the data from different angles, enhancing the understanding of sales performance and customer behavior.
 
 ![image](https://github.com/vchukwuma/Victor-s_portfolio/blob/main/Dashboard%201.png?raw=true)
 
